@@ -39,3 +39,4 @@
 15. Za pomocą skryptu *Bash* przeszukałem plik ```index.html``` w poszukiwaniu subdomen. Wykonałem także skanowanie za pomocą ```recon-ng```, uzyskując kolejne subdomeny wraz z ich adresami IP (w każdym źródle były pewnie subdomeny, których nie znalazłem za poomocą innych narzędzi)  
 ![20](/OSINT/20.png)  
 ![22](/OSINT/22.png)  
+cos tam
