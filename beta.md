@@ -4,7 +4,7 @@
 1. Pobrałem plik ```index.html```, dzięki czemu zdobyłem adres IP strony.  
 ![1](1.png)  
 2. W pliku ```index.html``` znalazłem także strony WUM na różnych serwisach  
-![2](/OSINT/2.png)  
+![2](2.png)  
 3. Na stronie znalazłem adres organizacji, telefon centralny, faks a także numer *NIP* i *REGON*  
 ![3](3.png)  
 4. Następnie znalazłem informacje o aktualnym rektorze, jego mail, a także życiorys wraz z zainteresowaniami zawodowymi i prywatnymi oraz znanymi mu językami i używane systemy operacyjne. Plik z życiorysem zamieszczam w repozytorium ![Plik](/OSINT/rektor_info.pdf).  
